@@ -1,3 +1,7 @@
+[![](https://img.youtube.com/vi/pZz0-8p-JW4/0.jpg)](https://www.youtube.com/watch?v=pZz0-8p-JW4) |
+|:--:| 
+| *App demo* |
+
 # Inspiration
 There were a couple of things that inspired us to take on this project. Arc'teryx is a well-known and well-loved brand known for their high quality outdoor gear. Both outdoors and online, Arc'teryx has developed a great reputation. To combine technology and the company's strengths, we had a vision for an omnichannel experience that follows customers from the store, to the trails, and with their friends. Thus, we came up with Arc'Trek as a mobile app that customers can take with them anywhere.
 
